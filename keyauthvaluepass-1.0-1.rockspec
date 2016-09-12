@@ -1,7 +1,7 @@
 package = "KeyAuthValuePass"
 version = "1.0-1"
 source = {
-    url = "git://github.com/jhitzke/key-auth-value-pass"
+    url = "git://github.com/jhitzke/key-auth-value-pass",
     tag = "1.0-1"
 }
 description = {
