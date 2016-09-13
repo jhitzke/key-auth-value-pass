@@ -8,7 +8,7 @@ local KeyAuthValuePassHandler = BasePlugin:extend()
 
 
 function KeyAuthValuePassHandler:new()
-    KeyAuthValuePassHandler.super.new(self, "eps-key-auth")
+    KeyAuthValuePassHandler.super.new(self, "key-auth-value-pass")
 end
 
 function KeyAuthValuePassHandler:header_filter(config)
