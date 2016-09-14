@@ -1,8 +1,8 @@
 package = "KeyAuthValuePass"
-version = "1.5-2"
+version = "1.5-3"
 source = {
     url = "git://github.com/jhitzke/key-auth-value-pass",
-    tag = "1.5-2"
+    tag = "1.5-3"
 }
 description = {
     summary = "Pass a value via custom_id using key-auth, using a given prefix",
